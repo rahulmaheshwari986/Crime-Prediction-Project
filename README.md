@@ -10,4 +10,4 @@ Tools used - Base SAS 9.4, SAS/STAT 14.1, SAS/IML 14.1, SAS Enterprise Guide 7.1
 
 Code files - Main.sas
 
-Input Data files - Train_data.csv, Test_data.csv
+Input Data files - Train_data.csv, Test_data.csv exceed the size limit on github. They can downloaded separately from the Kaggle link provided above.
